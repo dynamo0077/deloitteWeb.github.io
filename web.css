@@ -1,0 +1,18 @@
+body    {
+    background : url(https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F853666770%2F960x0.jpg%3Ffit%3Dscale);
+    background-size: cover;
+}
+ h1     {
+    color: lightgrey;
+    font-size: 3rem;
+ }
+
+ body   {
+     font-size: 2rem;
+     font-weight: 350;
+     color: limegreen;
+    }
+
+span    {
+    font-weight: 400;
+}
